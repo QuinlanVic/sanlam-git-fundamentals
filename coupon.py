@@ -7,3 +7,9 @@ print("This is my ultimate coupon")
 
 def get_coupon():
     return "SECRET_ALEX"
+
+
+# Merge Conflict
+# 1. Resolve
+# 2. Stage
+# 3. Commit
