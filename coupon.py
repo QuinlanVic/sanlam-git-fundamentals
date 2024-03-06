@@ -13,3 +13,10 @@ def get_coupon():
 # 1. Resolve
 # 2. Stage
 # 3. Commit
+
+
+def coupon_code():
+    return "50OFF2DAY"
+
+
+print(coupon_code())
