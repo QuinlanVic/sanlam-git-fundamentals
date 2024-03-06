@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print(profile_pic.get_profile_pic())
     print(background_pic.get_background_pic())
 print("We did it yay!")
+print("New line")
