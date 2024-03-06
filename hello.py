@@ -13,3 +13,10 @@ def squared(x):
 
 
 print(squared(20))
+
+
+def summing(a, b):
+    return a + b
+
+
+print(summing(double(10), squared(double(10))))
