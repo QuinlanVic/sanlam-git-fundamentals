@@ -6,3 +6,10 @@ def double(n):
 
 
 print(double(10))
+
+
+def squared(x):
+    return x * x
+
+
+print(squared(20))
